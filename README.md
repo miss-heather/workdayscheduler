@@ -8,10 +8,8 @@ https://miss-heather.github.io/homework4/
 
 ## Workday Scheduler Visual:
 
-![Start Quiz](./assets/img/quizbegin.jpg)
-![Quiz Question](./assets/img/quizquestion.jpg)
-![High Score](./assets/img/quizhigh.jpg)
-![Zero Points](./assets/img/quizzero.jpg)
+![Alt text](assets/Images/schedulertop.jpg)
+![Alt text](assets/Images/schedulerbottom.jpg)
 
 ## Workday Scheduler Installation
 N/A

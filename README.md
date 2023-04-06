@@ -4,7 +4,7 @@
 This work scheduler displays the title, date and time, in real time, at the top of the screen, with each individual work hour beneath it. The user will be able to enter their work schedule in, hour by hour, save their data, and delete their data. This capability is available for each hour individually, saving their data locally. 
 
 ## Workday Scheduler Link:
-https://miss-heather.github.io/homework4/
+https://miss-heather.github.io/workdayscheduler/
 
 ## Workday Scheduler Visual:
 

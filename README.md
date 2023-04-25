@@ -1,21 +1,21 @@
 # Workday Scheduler
 
 ## Workday Scheduler Description:
-This work scheduler displays the title, date and time, in real time, at the top of the screen, with each individual work hour beneath it. The user will be able to enter their work schedule in, hour by hour, save their data, and delete their data. This capability is available for each hour individually, saving their data locally. 
+This work scheduler displays the title, date and time, in real time, at the top of the screen, with each individual work hour beneath it. The user will be able to enter their work schedule in, hour by hour, and save their data. This capability is available for each hour individually, saving their data locally. 
 
 ## Workday Scheduler Link:
 https://miss-heather.github.io/workdayscheduler/
 
 ## Workday Scheduler Visual:
 
-![Alt text](assets/Images/schedulertop.jpg)
-![Alt text](assets/Images/schedulerbottom.jpg)
+![Top Half of Scheduler](./assets/Images/topsched.png)
+![Bottom Half of Scheduler](./assets/Images/bottomsched.png)
 
 ## Workday Scheduler Installation
 N/A
 
 ## Workday Scheduler Usage
-With this Workday Scheduler, the user will be able to schedule their day, hour by hour. The user will be able to save each item and delete items, with functionality available to do so for each hour independently. The user will be able to save items on this application and close out of it, yet be able to go back to it, and have all of their data available to them, as they're saved locally. 
+With this Workday Scheduler, the user will be able to schedule their day, hour by hour. The user will be able to save each with functionality available to do so for each hour independently. The user will be able to save items on this application and close out of it, yet be able to go back to it, and have all of their data available to them, as they're saved locally. 
 
 
 ## Workday Scheduler Credits

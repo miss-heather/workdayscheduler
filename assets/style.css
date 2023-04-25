@@ -81,20 +81,8 @@ body {
     border-left: 3px solid black;
     border-right: 3px solid black;
   }
-  .deleteBtn {
-    border-left: 1px solid black;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    background-color: rgb(184, 0, 138);
-    color: white;
-    border-radius: 15px;
-    border-top: 3px solid black; 
-    border-bottom: 3px solid black; 
-    border-left: 3px solid black;
-    border-right: 3px solid black;
-  }
   
-  .saveBtn, .deleteBtn i:hover {
+  .saveBtn, i:hover {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
